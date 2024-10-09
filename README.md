@@ -25,6 +25,16 @@ STEP 6: Use zscore of to remove outliers
 ![S2](https://github.com/user-attachments/assets/c09e6ee6-f4e0-4ca7-a4c2-07d0884d0c95)
 ![S3](https://github.com/user-attachments/assets/9842823b-d8cb-4282-aba5-d02c443092fe)
 ![image](https://github.com/user-attachments/assets/24a2d5f7-8a0b-4376-92f6-31cea8da65b6)
+![image](https://github.com/user-attachments/assets/f125a4e7-d4c3-45b0-b8c7-fbcdb1db2afd)
+![image](https://github.com/user-attachments/assets/64157754-8f18-44c2-b6de-8aa2ecf82b43)
+![image](https://github.com/user-attachments/assets/a258ad10-822a-4f0d-8012-37476e91f299)
+![image](https://github.com/user-attachments/assets/35775f25-776b-4736-95e4-c091a7b539fa)
+![image](https://github.com/user-attachments/assets/62c7ceb9-9572-4dbd-ac1a-318f01850763)
+![image](https://github.com/user-attachments/assets/9875701e-256a-4780-aeb0-446e89114739)
+
+
+
+
 
 
 
