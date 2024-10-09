@@ -40,6 +40,18 @@ STEP 6: Use zscore of to remove outliers
 ![image](https://github.com/user-attachments/assets/9e9389d5-44aa-4c47-87eb-748835bf2136)
 ![image](https://github.com/user-attachments/assets/39ab6ba2-db1a-4299-a3c0-853ba5733894)
 ![image](https://github.com/user-attachments/assets/7b0aefc2-6a56-4483-bc84-6d9dbdb2e74e)
+![image](https://github.com/user-attachments/assets/3a7a14b6-953f-444f-8825-b59bd3201bac)
+![image](https://github.com/user-attachments/assets/3dec729a-1424-4d38-83b9-8303bc7a17cc)
+![image](https://github.com/user-attachments/assets/6013a52f-b2ab-4b4b-8369-9e35841e7dc3)
+![image](https://github.com/user-attachments/assets/83f921c3-a752-4c76-b7d0-64c546f9d0fa)
+![image](https://github.com/user-attachments/assets/7f81be71-1063-4571-88f9-6e4179e6242b)
+![image](https://github.com/user-attachments/assets/42d8d317-834d-407b-b553-baac4de89112)
+![image](https://github.com/user-attachments/assets/6a3d3ee3-7d4f-4102-b59d-cfe130b13f02)
+![image](https://github.com/user-attachments/assets/6fbae6aa-c290-4917-92b3-2a420fecbcb0)
+![image](https://github.com/user-attachments/assets/c0db7748-a2fc-4d27-ab48-cbbb6b8c01c0)
+![image](https://github.com/user-attachments/assets/776c67bc-61a7-4fd6-8857-b8780f56bc6a)
+![image](https://github.com/user-attachments/assets/40f71e0c-d72c-4492-8c28-48ff8f7e4840)
+![image](https://github.com/user-attachments/assets/e914e117-764e-4125-ab46-891a4ee89349)
 
 
 
